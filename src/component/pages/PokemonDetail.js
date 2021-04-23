@@ -179,7 +179,7 @@ export function PokemonDetails()
                         <span className="field-error" style={{display:state.isSame ? "block" : "none"}}>nickname is same</span>
                     </div>
                     <div className="form-group form-nickname">
-                        <button  disabled={ state.nickname === "" ? true : false} onClick={() => (saveMyPokemon())}className="btn btn-success btn-nickname">Save This Pokemon</button>
+                        <button  disabled={ state.nickname === "" ? true : false} onClick={() => (saveMyPokemon())}className="btn btn-success btn-nickname">Save</button>
                     </div>
                 </Modal.Body>
             </Modal>
