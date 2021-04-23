@@ -7,6 +7,11 @@ $ npm install:
 To run in dev mode
 
 > $ npm run dev-server
+> localhost:8080/
+> enjoy
+
+To run build 
+> $ npm run build
 
 To run unit test jest
 
