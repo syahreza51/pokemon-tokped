@@ -25,3 +25,6 @@ Built with
 - GraphQL using Apollo Client
 - CSS-in-JS using Emotion
 - Unit Test using Jest
+
+you can see pokemon deploy with netlify
+- https://6083274e7e0a8a15810c3854--pokemon-dev-tokped.netlify.app/
