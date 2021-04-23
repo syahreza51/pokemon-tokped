@@ -32,4 +32,4 @@ Built with
 - Unit Test using Jest
 
 you can see pokemon deploy with netlify
-- https://6083274e7e0a8a15810c3854--pokemon-dev-tokped.netlify.app/
+- https://60832d0b7856de297b3fb6f1--poke-dev.netlify.app/mypokemon
