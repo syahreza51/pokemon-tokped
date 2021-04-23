@@ -14,14 +14,14 @@ To run unit test jest
 
 Built with
 
-React
-HTML
-CSS
-React Hooks
-React Router
-React Cotext
-Webpack 4
-Boostrap
-GraphQL using Apollo Client
-CSS-in-JS using Emotion
-Unit Test using Jest
+> React
+> HTML
+> CSS
+> React Hooks
+> React Router
+> React Cotext
+> Webpack 4
+> Boostrap
+> GraphQL using Apollo Client
+> CSS-in-JS using Emotion
+> Unit Test using Jest
