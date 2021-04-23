@@ -6,7 +6,7 @@
   "homepage": "http://syahreza51.github.io/pokemon-tokped",
   "scripts": {
     "start": "webpack --mode=development",
-    "build": "webpack --mode=production",
+    "build": "webpack --mode production",
     "dev-server": "webpack-dev-server",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
