@@ -29,11 +29,16 @@ module.exports = {
       }
     ]
   },
-  devtool: 'cheap-module-eval-source-map',
+  devtool: 
+    // 'cheap-module-eval-source-map'
+    'inline-source-map',
   devServer: {
     // contentBase: path.join(__dirname, 'public'),
     historyApiFallback: true
   },
+  performance: {
+    hints: false,
+ },
   plugins: [
     new HtmlWebPackPlugin({
         template: "./public/index.html",
